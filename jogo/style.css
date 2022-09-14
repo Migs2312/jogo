@@ -1,0 +1,41 @@
+.painel {
+     text-align: center;
+
+}
+.title{
+    text-align: center;
+}
+.screen{
+    width: 500px;
+     height: 300px;
+     background-image: url(./ghz.jpeg);
+     background-size: cover;
+     text-align: center;
+    border: 2px white solid;
+}
+#div2 {
+    position: absolute; 
+    top: 40px; 
+    left: 50px; 
+    width: 50px; 
+    height: 50px; 
+    background-image: url(./cringe.jpeg);
+    background-size:cover;
+    text-align: center; 
+}
+#div1 {
+    position: absolute;
+    top: 200px;
+    left: 70px;
+    width: 100px; 
+    height: 100px; 
+    background-image: url(./ArmstrongPortrait.webp);
+    background-size:cover; 
+    text-align: center;
+}
+.whole{
+    border:2px solid black;
+    padding:5px;
+    height:fit-content;
+    width:fit-content;
+}
